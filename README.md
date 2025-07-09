@@ -17,7 +17,7 @@
 
 ## 🖥️ ภาพตัวอย่าง
 
-![PDF to Word Converter](https://github.com/gamekittituh/pdf-to-word-converter/blob/main/screenshot.png?raw=true)
+![PDF to Word Converter](https://github.com/gamekittituh/pdf-to-word-converter/blob/main/screenshort.png?raw=true)
 
 _หน้าจอหลักของโปรแกรม PDF to Word Converter_
 
