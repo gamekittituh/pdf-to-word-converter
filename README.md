@@ -17,7 +17,9 @@
 
 ## 🖥️ ภาพตัวอย่าง
 
-![PDF to Word Converter](https://via.placeholder.com/600x400/1e1e1e/ffffff?text=PDF+to+Word+Converter+UI)
+![PDF to Word Converter](https://github.com/gamekittituh/pdf-to-word-converter/blob/main/screenshot.png?raw=true)
+
+_หน้าจอหลักของโปรแกรม PDF to Word Converter_
 
 ## 🛠️ การติดตั้ง
 
@@ -33,7 +35,7 @@
 1. **Clone Repository**
 
    ```bash
-   git clone https://github.com/yourusername/pdf-to-word-converter.git
+   git clone https://github.com/gamekittituh/pdf-to-word-converter.git
    cd pdf-to-word-converter
    ```
 
@@ -81,6 +83,8 @@ pdf-to-word-converter/
 ├── main.py                 # ไฟล์หลักของโปรแกรม
 ├── requirements.txt        # รายการ Python packages
 ├── README.md              # เอกสารคู่มือ
+├── LICENSE                # ไฟล์ MIT License
+├── screenshot.png         # ภาพตัวอย่างของโปรแกรม
 ├── .gitignore             # ไฟล์ที่ไม่ต้องติดตาม
 └── .vscode/
     └── tasks.json         # VS Code tasks
@@ -146,7 +150,7 @@ Pillow==11.3.0            # ประมวลผลภาพ
 
 ## 👨‍💻 ผู้พัฒนา
 
-- **[ชื่อของคุณ]** - _Initial work_ - [GitHub Profile](https://github.com/yourusername)
+- **[GameKittituh]** - _Initial work_ - [GitHub Profile](https://github.com/gamekittituh)
 
 ## 🙏 ขอบคุณ
 
