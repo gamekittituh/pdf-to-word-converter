@@ -1,0 +1,5 @@
+pdf2docx
+pdf2image
+pytesseract
+python-docx
+Pillow
