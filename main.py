@@ -7,10 +7,14 @@ from docx import Document
 import os
 from PIL import Image, ImageTk
 
+# Version information
+__version__ = "1.0.1"
+__app_name__ = "PDF to Word Converter"
+
 class PDFToWordConverter:
     def __init__(self, root):
         self.root = root
-        self.root.title("📄 PDF to Word Converter")
+        self.root.title(f"📄 {__app_name__} v{__version__}")
         self.root.geometry("600x550")
         self.root.minsize(600, 550)
         self.root.resizable(True, True)
@@ -78,7 +82,7 @@ class PDFToWordConverter:
         self.title_frame.pack(fill="x", pady=(0, 30))
         
         self.label_title = tk.Label(self.title_frame, 
-                                   text="📄 PDF to Word Converter", 
+                                   text=f"📄 {__app_name__} v{__version__}", 
                                    font=("Segoe UI", 24, "bold"),
                                    bg=self.colors['bg'],
                                    fg=self.colors['text'])

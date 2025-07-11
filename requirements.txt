@@ -1,5 +1,6 @@
-pdf2docx
-pdf2image
-pytesseract
-python-docx
-Pillow
+pdf2docx==0.5.6
+pdf2image==1.16.3
+pytesseract==0.3.10
+python-docx==0.8.11
+Pillow==10.0.0
+pyinstaller==5.13.2
