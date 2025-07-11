@@ -11,8 +11,8 @@ class PDFToWordConverter:
     def __init__(self, root):
         self.root = root
         self.root.title("📄 PDF to Word Converter")
-        self.root.geometry("600x450")
-        self.root.minsize(600, 450)
+        self.root.geometry("600x550")
+        self.root.minsize(600, 550)
         self.root.resizable(True, True)
         
         # สีธีมโมเดิร์น - Dark Mode
